@@ -1,0 +1,14 @@
+{
+  "name": "sistcomput",
+  "version": "1.0.0",
+  "description": "sist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tiago",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
